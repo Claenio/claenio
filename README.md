@@ -2,7 +2,7 @@
 <div display="inline-block">
 <img align="left" src="https://img.icons8.com/office/30/000000/pixel-star.png"/>
 <img align="right" src="https://img.icons8.com/office/30/000000/pixel-star.png"/>
-<p align="center"> .. </p>
+<p align="center"> . </p>
 </div>
 
 <div display="inline" align="center">
